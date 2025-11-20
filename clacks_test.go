@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/denispanfilov/clacks"
+	"github.com/flaticols/clacks"
 )
 
 func TestMiddleware(t *testing.T) {
